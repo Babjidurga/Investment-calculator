@@ -13,8 +13,6 @@ This is a simple React application that enables users to calculate both simple i
 - HTML5
 - CSS3
 
-
-
 ## Usage
 
 - Input the principal amount.
@@ -34,8 +32,6 @@ This is a simple React application that enables users to calculate both simple i
 -  Total amount by year end.
 
 
-
-
 ## Screenshots
 
 ![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/677f7724-16f0-4a73-b139-58c5310d4120)
@@ -48,7 +44,7 @@ This is a simple React application that enables users to calculate both simple i
 ## Links to check the functionality 
 
 - Link 1:[@Main link](https://investment-calculator-git-main-babjidurga.vercel.app/)
-- Link 2: https://investment-calculator-beta.vercel.app/
+- Link 2: [@Secondary](https://investment-calculator-beta.vercel.app/)
 
 ## Authors
 
