@@ -1,0 +1,108 @@
+body {
+  background: radial-gradient(#688e80, #40574e);
+  color: white;
+}
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.content-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+img {
+  width: 40px;
+  height: 40px;
+}
+#header-component {
+  min-width: 350px;
+  margin: 0.5rem 0;
+  background: linear-gradient(180deg, #307e6c, #2b996d);
+}
+#user-input-con {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+}
+.user-data {
+  margin: 0 1rem;
+}
+.user-data p {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.user-data p label {
+  color: white;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+}
+.user-data p input {
+  border: 1px solid rgb(58, 209, 156);
+  border-radius: 3px;
+  outline: none;
+  height: 30px;
+  color: white;
+  background: transparent;
+  padding: 0 10px;
+  font-size: 12px;
+}
+.user-data p select {
+  color: rgb(255, 255, 255);
+  border: 1px solid rgb(58, 209, 156);
+  border-radius: 3px;
+  outline: none;
+  height: 30px;
+  width: 200px;
+  background: transparent;
+}
+#interest-selection option{
+  background-color:rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+/* .user-data p select{
+   height: 35px;
+   padding: 0 10px;
+   outline: none;
+   border: 1px solid rgb(58, 209, 156);
+ } */
+option {
+  color: white;
+  background: transparent;
+}
+#results-container {
+  width: 40vw;
+  min-width: 300px;
+  display: flex;
+  justify-content: center;
+}
+table {
+  margin: 1rem 0;
+  width: 100%;
+  border-collapse: collapse;
+}
+thead {
+  text-align: center;
+  color: #83e6c0;
+  font-size: 14px;
+  word-wrap: break-word;
+  padding: 8px;
+}
+tbody {
+  text-align: center;
+  margin-top: 2rem;
+}
+tbody tr td {
+  border: 1px solid rgb(42, 170, 125);
+  padding: 0 10px;
+  opacity: 0.78;
+  font-size: 12px;
+  color: #c2e9e0;
+}
