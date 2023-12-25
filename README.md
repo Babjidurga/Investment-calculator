@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# React Interest Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React application that enables users to calculate both simple interest and compound interest. The calculator provides an intuitive interface to input the necessary parameters and obtain the calculated results.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Calculate Simple Interest
+- Calculate Compound Interest
 
-### `npm start`
+## Technologies Used
+- React 18.0
+- JavaScript
+- HTML5
+- CSS3
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Usage
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Input the principal amount.
+- Enter the interest rate.
+- Specify the time period in years.
+- Choose whether to calculate simple or compound interest.
+- Click the "Calculate" button to get the result.
+##  Inputs from the user
+- Initial Investment.
+- Duration.
+- Rate of Interest.
+- Interest Type.
 
-### `npm run build`
+## output:
+-  Updated Investment by the year end.
+-  Interest earned by year end.
+-  Total amount by year end.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/677f7724-16f0-4a73-b139-58c5310d4120)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/b7511f5c-1b96-4883-ba6c-124ce59c6455)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/f9aae9fd-6e4c-477c-b74f-f5a845b3d65f)
+![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/9aa5e81d-d76f-4c34-b6a8-54ab3e71dca1)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Authors
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@Babjidurga](https://github.com/Babjidurga)
