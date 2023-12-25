@@ -45,6 +45,11 @@ This is a simple React application that enables users to calculate both simple i
 ![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/f9aae9fd-6e4c-477c-b74f-f5a845b3d65f)
 ![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/9aa5e81d-d76f-4c34-b6a8-54ab3e71dca1)
 
+## Links to check the functionality 
+
+- Link 1:[@Main link](https://investment-calculator-git-main-babjidurga.vercel.app/)
+- Link 2: https://investment-calculator-beta.vercel.app/
+
 ## Authors
 
 - [@Babjidurga](https://github.com/Babjidurga)
