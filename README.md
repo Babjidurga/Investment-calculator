@@ -20,6 +20,7 @@ This is a simple React application that enables users to calculate both simple i
 - Specify the time period in years.
 - Choose whether to calculate simple or compound interest.
 - Click the "Calculate" button to get the result.
+  
 ##  Inputs from the user
 - Initial Investment.
 - Duration.
@@ -30,7 +31,6 @@ This is a simple React application that enables users to calculate both simple i
 -  Updated Investment by the year end.
 -  Interest earned by year end.
 -  Total amount by year end.
-
 
 ## Screenshots
 
