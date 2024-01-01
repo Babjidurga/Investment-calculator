@@ -32,7 +32,7 @@ This is a simple React application that enables users to calculate both simple i
 -  Interest earned by year end.
 -  Total amount by year end.
 
-## Screenshots
+## Results
 
 ![image](https://github.com/Babjidurga/Investment-calculator/assets/113676689/677f7724-16f0-4a73-b139-58c5310d4120)
 
