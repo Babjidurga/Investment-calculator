@@ -77,6 +77,16 @@ option {
   color: white;
   background: transparent;
 }
+.invalidDuration{
+  color:red;
+  background:aquamarine;
+  padding:5px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  animation:blink 1s linear infinite;
+}
+
 #results-container {
   width: 40vw;
   min-width: 300px;
@@ -105,4 +115,17 @@ tbody tr td {
   opacity: 0.78;
   font-size: 12px;
   color: #c2e9e0;
+}
+
+@keyframes blink{
+  25%{
+    opacity: 0.5;
+  }
+  50%{
+    opacity: 0;
+  }
+  75%{
+    opacity: 1;
+  }
+
 }
