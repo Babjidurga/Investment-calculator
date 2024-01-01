@@ -5,7 +5,6 @@ export default function ClculateResults({
   interestType,
 }) {
   const annualData = [];
-  console.log(duration);
   if (interestType === "SI") {
     let firstInvestment = initialInvestment;
     for (let i = 1; i < parseInt(duration) + 1; i++) {
@@ -15,7 +14,6 @@ export default function ClculateResults({
         100
       ).toFixed();
       let totalValue = parseInt(firstInvestment) + parseInt(intrestEarned);
-      console.log(duration);
       annualData.push({
         SNo,
         firstInvestment,

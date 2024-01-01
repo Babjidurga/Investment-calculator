@@ -29,7 +29,8 @@ function App() {
       </div>
 
       <Header userInput={inputData} onChangeData={handleChangedData} />
-      <Results data={inputData} />
+      {inputData.duration <= 0 ? "Please enter a Valid duration": <Results data={inputData} />}
+      
     </main>
   );
 }
